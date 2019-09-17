@@ -6,11 +6,11 @@ function App() {
 
   return(
     <div className="app">
-      <Tweet />
-      <Tweet />
-      <Tweet />
-      <Tweet />
-      <Tweet />
+      <Tweet name='Dev Ed'/>
+      <Tweet name='Ben'/>
+      <Tweet name='Tae'/>
+      <Tweet name='Josh'/>
+      <Tweet name='Hugh'/>
     </div>
   );
 }
